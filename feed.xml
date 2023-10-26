@@ -6,8 +6,8 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Thu, 26 Oct 2023 14:45:53 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Oct 2023 14:45:53 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 18:11:28 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 18:11:28 +0000</lastBuildDate>
 
     
     <item>
@@ -947,7 +947,7 @@ Erfahre mehr zum Thema:    • #000000 #c0ffee Tech-Talk  &lt;/p&gt;
 &lt;/colgroup&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;div class=&quot;content&quot;&gt;&lt;iframe class=&quot;video-iframe&quot; frameborder=&quot;0&quot; src=&quot;https://youtu.be/O3bYfZ8tcLc&quot; title=&quot;Vue.js vs. Angular: Was ist besser?&quot; allowfullscreen=&quot;true&quot; style=&quot;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px;  width: 100%; height: auto; aspect-ratio: 560 / 315;&quot; data-ratio=&quot;1.7777777777777777&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;div class=&quot;content&quot;&gt;&lt;iframe style=&quot;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; width: 100%; height: auto;&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/O3bYfZ8tcLc?si=u7cRLuUQzglrdpSe&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
