@@ -66,14 +66,6 @@ var documents = [
 
 {
     "id": 8,
-    "uri": "blog/profiles/Ralf-D.-Mueller.html",
-    "menu": "Autoren",
-    "title": "Ralf D. Müller",
-    "text": " Table of Contents Ralf D. Müller Ralf D. Müller span.profile img { border: 5px solid #288ABF; border-radius: 10px; max-width: 100px; } Ralf is a Software Engineering Advocate at DB Systel GmbH during the day and after sunset he loves everything with bits and bytes. The last few years of his career, he focused on the documentation of software systems with arc42 and the Docs-as-Code approach. You can follow him on mastodon rdmueller@mastodontech.de . "
-},
-
-{
-    "id": 9,
     "uri": "blog/profiles/Marcus-Suemnick.html",
     "menu": "Autoren",
     "title": "Marcus Sümnick",
@@ -81,11 +73,19 @@ var documents = [
 },
 
 {
-    "id": 10,
+    "id": 9,
     "uri": "blog/profiles/Danny-Koppenhagen.html",
     "menu": "Autoren",
     "title": "Danny Koppenhagen",
     "text": " Table of Contents Danny Koppenhagen Links Danny Koppenhagen span.profile img { border: 5px solid #288ABF; border-radius: 10px; max-width: 100px; } Danny is an experienced frontend architect at DB Systel GmbH which is the digital partner of the biggest German railway company Deutsche Bahn . He develops and architects’ enterprise web applications within a DevOps team facing the micro mobility market. Furthermore, he is an open-source enthusiast and one of the authors of the popular German-language Angular book . Links Mastodon Profile X (formerly known as Twitter) Profile GitHub Profile Personal Website "
+},
+
+{
+    "id": 10,
+    "uri": "blog/profiles/Ralf-D.-Mueller.html",
+    "menu": "Autoren",
+    "title": "Ralf D. Müller",
+    "text": " Table of Contents Ralf D. Müller Ralf D. Müller span.profile img { border: 5px solid #288ABF; border-radius: 10px; max-width: 100px; } Ralf is a Software Engineering Advocate at DB Systel GmbH during the day and after sunset he loves everything with bits and bytes. The last few years of his career, he focused on the documentation of software systems with arc42 and the Docs-as-Code approach. You can follow him on mastodon rdmueller@mastodontech.de . "
 },
 
 {
